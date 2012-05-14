@@ -20,7 +20,7 @@ play around.
 
 ### For starting out:
 
-- [The official Python documentation](www.python.org/doc/) is a great place for Python-related information.
+- [The official Python documentation](http://www.python.org/doc/) is a great place for Python-related information.
 - You can find the [best Git book online here](http://progit.org/book/). I might be biased a bit, bit still, this is a
 great book.
 - Try to use *Sqliteman* for opening and studying the database.
